@@ -1,0 +1,145 @@
+.clr{
+    background-color: #21243d;
+    line-height: 50px;
+    vertical-align: middle;
+}
+.nav-item a{
+    color: white;
+}
+.navbar-nav li a:hover{
+    color: gold;
+    border-radius: 10px;
+    background-color: rgba(65, 105, 225, 0.726);
+
+}
+.bg{
+    background-image: linear-gradient(#f6a6124e,#f6a61254),url(./img/Place\ Your\ Image\ Here\ \(Double\ Click\ to\ Edit\)\ \(32\).png);    
+    background-size: cover;
+    background-position: center;
+}
+.title h1{
+    font-size: 100px;
+    margin-top: 100px;
+    padding-top: 100px;
+}
+.title p{
+    width: 50%;
+    margin-top: 40px;
+    font-weight: 600;
+}
+.title button{
+    border: none;
+    background-color: #21243d;
+    color: white;
+    margin-bottom: 100px;
+}
+.sec-two{
+    background-color: #21243d;
+    background-image: url(./Design.png);
+    background-size: cover;
+    background-position: center;
+}
+.text h2{
+    font-size: 70px;
+    margin: 60px 0 30px 0;
+}
+.text p{
+    width: 70%; 
+}
+.sec-three{
+    background-color: #ffd17e;
+    background-image: url(./img/Design\ \(1\).png);
+    background-size: cover;
+    background-position: center;
+    padding: 80px 0 50px 0;
+}
+.text-two{
+    color: #21243d;
+}
+.text-two h3{
+    font-size: 55px;
+}
+.text-two p{
+    width: 90%;
+}
+.text-two button{
+    background-color: #21243d;
+    border: none;
+}
+.sec-four{
+    background-color: #21243d;
+    background-image: url(./img/Design\ \(2\).png);
+    background-size: cover;
+    background-position: center;
+    padding: 80px 0;
+}
+.text-three h3{
+    font-size: 50px;
+}
+.text-three p{
+    width: 70%;
+}
+.tex-two{
+    margin-bottom: 50px;
+}
+.tex-two p{
+    padding: 20px 20px 0 20px;
+    font-size: 30px;
+    line-height: 0;
+}
+.tex-two span{
+    font-size: 30px;
+}
+.sec-five{
+    background-color: #ffd17e;
+    background-image: url(./img/Design\ \(3\).png);
+    background-size: cover;
+    padding: 80px 0 50px 0;
+}
+.sec-six{
+    background-image: linear-gradient(#21243dc9, #21243dc1),url(./img/Place\ Your\ Image\ Here\ \(Double\ Click\ to\ Edit\)\ \(39\).png);
+    background-size: cover;
+    background-position: center;
+    padding: 70px 0;
+    
+}
+.text-four p{
+    width: 60%;
+}
+.sec-seven{
+    background-color: #ffd17e;
+    background-image: url(./img/Design\ \(4\).png);
+    background-size: cover;
+    /* background-position: center; */
+    padding: 100px 0;
+
+}
+.text-five{
+    color: #21243d;
+}
+.text-five h4{
+    font-size: 60px;
+    font-weight: 700;
+}
+.text-five p{
+    width: 70%;
+}
+.text-five input{
+    width: 350px;
+}
+.text-five button{
+    background-color: #21243d;
+    border: none;
+}
+footer i{
+    background-color: white;
+    color: black;
+}
+footer ul{
+    list-style: none;
+}
+footer ul li a{
+    text-decoration: none;
+    color: white;
+
+}
